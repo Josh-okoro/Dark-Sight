@@ -1,4 +1,4 @@
-# Dark-Sight
+# Dark-Sight for Group W of LBS Bootcamp 2020
 A VR transformational game that elicits compassion for visually impaired individuals.
 
 The game is about a person who wakes up in a
